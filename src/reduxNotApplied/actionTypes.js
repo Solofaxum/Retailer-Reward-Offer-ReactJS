@@ -1,0 +1,6 @@
+export const USERREWARD = 'USERREWARD';
+export const CURRENTUSER = 'CURRENTUSER';
+export const USERTRANSACTION = 'USERTRANSACTION';
+export const USERS = 'USERS';
+export const NEWTRANSACTION = 'NEWTRANSACTION';
+export const LOADEDDATA = 'LOADEDDATA';
